@@ -1,0 +1,15 @@
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\bin\Debug\Negocio.dll
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\bin\Debug\Datos.dll
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\bin\Debug\Entidades.dll
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\bin\Debug\Datos.pdb
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\bin\Debug\Datos.dll.config
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\bin\Debug\Entidades.pdb
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\bin\Debug\Entidades.dll.config
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\obj\Debug\Negocio.dll
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Negocio\obj\Debug\Negocio.pdb

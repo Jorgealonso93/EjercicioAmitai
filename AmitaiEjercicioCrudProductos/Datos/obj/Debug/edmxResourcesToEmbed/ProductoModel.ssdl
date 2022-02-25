@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AmitaiBDModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="idProducto" />
+    </Key>
+    <Property Name="idProducto" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NomProducto" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DesProducto" Type="varchar" MaxLength="100" />
+    <Property Name="FecCreacionP" Type="date" />
+    <Property Name="CodProducto" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="CostoUnitario" Type="decimal" Precision="9" Scale="2" />
+  </EntityType>
+  <EntityContainer Name="AmitaiBDModelStoreContainer">
+    <EntitySet Name="Producto" EntityType="Self.Producto" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,66 @@
+﻿@model Entidades.Producto
+
+<h3>Estas Seguro de Eliminar este Registro?</h3>
+<div>
+    <h4>Producto</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.idProducto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idProducto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NomProducto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomProducto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DesProducto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DesProducto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FecCreacionP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FecCreacionP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CodProducto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodProducto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CostoUnitario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CostoUnitario)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+            @Html.ActionLink("Rgresar a la lista", "Index")
+        </div>
+    }
+</div>

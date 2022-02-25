@@ -1,0 +1,15 @@
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\bin\Debug\Datos.dll.config
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\bin\Debug\Datos.dll
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\bin\Debug\Datos.pdb
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\bin\Debug\Entidades.dll
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\bin\Debug\EntityFramework.dll
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\bin\Debug\Entidades.pdb
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\bin\Debug\Entidades.dll.config
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\bin\Debug\EntityFramework.xml
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\obj\Debug\Datos.dll
+C:\Users\ADM\Documents\GitHub\AmitaiEjercicioCrudProductos\Datos\obj\Debug\Datos.pdb

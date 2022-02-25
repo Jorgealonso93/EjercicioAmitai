@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AmitaiBDModelStoreContainer" CdmEntityContainer="AmitaiBDEntities">
+    <EntitySetMapping Name="Producto">
+      <EntityTypeMapping TypeName="AmitaiBDModel.Producto">
+        <MappingFragment StoreEntitySet="Producto">
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="NomProducto" ColumnName="NomProducto" />
+          <ScalarProperty Name="DesProducto" ColumnName="DesProducto" />
+          <ScalarProperty Name="FecCreacionP" ColumnName="FecCreacionP" />
+          <ScalarProperty Name="CodProducto" ColumnName="CodProducto" />
+          <ScalarProperty Name="CostoUnitario" ColumnName="CostoUnitario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
